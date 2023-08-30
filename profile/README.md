@@ -18,8 +18,6 @@ The official Pinata NodeJS SDK provides the quickest / easiest path for interact
 
 **<img src="https://assets.pinata.cloud/pinnie.png" width="24"/> Distribute Media on IPFS with [Pinata](https://www.pinata.cloud/)**
 
-**⚓ Create Premium Content Experiences with [Submarine](https://www.pinata.cloud/submarine)**
-
 **📲 Follow Our Socials**
 
 [Twitter](https://twitter.com/pinatacloud) | [LinkedIn](https://www.linkedin.com/company/pinatacloud) | [YouTube](https://www.youtube.com/c/Pinatacloud) | [Instagram](https://www.instagram.com/pinata.cloud/)
