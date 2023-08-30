@@ -1,4 +1,4 @@
-<img src="https://assets.pinata.cloud/pinnieMain.png" width="250"   />
+<img src="https://assets.pinata.cloud/pinnieMain.png" width="150"  />
 
 # Welcome!
 
